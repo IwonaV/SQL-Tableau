@@ -1,4 +1,6 @@
-# SQL-Tableau
+### SQL-Tableau
+
+##
 Integrating SQL and Tableau. Focusing on answering business related questions.
 
 # Interpretation:
@@ -12,3 +14,14 @@ Tableau [dashboard](https://public.tableau.com/app/profile/iwona8604/viz/Dashboa
 
 # Datasource 
 Dataset and tasks chalenges are part of [SQL-Tableau course](https://learn.365datascience.com/courses/sql-tableau/course-introduction/) by 365 Data Science
+
+## Company report 
+
+# Interpretation 
+The different charts added to the dashboard allows us to track different aspects of the company. We are able to see the net sales and the gross profit margins evolve which help us determine if the company is growing sustainably. 
+We also see the breakdown of sales by type of and  product size. With the addition of the time filter we are able to observe the company developments on a yearly, quarterly or monthly basis.
+Adding brand filters allows us to increase the granularity of the report and examine the performance of the individual or multiple brands. This way we are able to answer key performance questions for example which brands are profitable or which are losing. Which are doing well or which aren't growing fast enough.
+By adding a time filter we can observe the performance of the company in s specific time 
+
+# Datasource 
+Dataset and tasks chalenges are part of [The Complete Data Visualization Course with Python, R, Tableau and Excel](https://learn.365datascience.com/courses/data-visualization/what-does-the-course-cover/) by 365 Data Science
