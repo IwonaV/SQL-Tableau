@@ -10,4 +10,4 @@ Tableau [dahboard](https://public.tableau.com/app/profile/iwona8604/viz/Dashboar
 - Focusing only on female employees the average salary was relatively high in finance, marketing and sales departments adequately using the same statistics the average salary for the male employees were similar
 
 # Datasource 
-Dataset and Tasks chalenges are part of [SQL-Tableau course](https://learn.365datascience.com/courses/sql-tableau/course-introduction/)by 365 Data Science
+Dataset and Tasks chalenges are part of [SQL-Tableau course](https://learn.365datascience.com/courses/sql-tableau/course-introduction/) by 365 Data Science
