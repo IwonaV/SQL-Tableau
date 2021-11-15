@@ -8,3 +8,6 @@ Tableau [dahboard](https://public.tableau.com/app/profile/iwona8604/viz/Dashboar
 - Filtering the chart by department name we can explore the distribution of male vs female employees for the different years for the entire company or a specific department.
 - The average salaries of male and female employees were similar until 1993, and after that period the male employees were paid more with a few thousands of dollars difference per year.
 - Focusing only on female employees the average salary was relatively high in finance, marketing and sales departments adequately using the same statistics the average salary for the male employees were similar
+
+# Datasource 
+Dataset and Tasks chalenges are part of [SQL-Tableau course](https://learn.365datascience.com/courses/sql-tableau/course-introduction/) by 365 Data Science
