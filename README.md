@@ -5,7 +5,7 @@ Integrating SQL and Tableau. Focusing on answering business related questions.
 
 Interpretation:
 
-Tableau [dashboard](https://public.tableau.com/app/profile/iwona8604/viz/Dashboard1_16369171592250/Dashboard1?publish=yes)
+Tableau [dashboard](https://public.tableau.com/app/profile/iwona8604/viz/Dashboard2_16367179471510/Dashboard1?publish=yes )
 
 - Within 12 years the number of the employees increased from under $20000 in 1990 to over $140000 in 2002 and the increase in employed workers throughout the year has been constant.The approximate ratio between male and female employees in the company has been 60% to 40%.
 - Filtering the chart by department name we can explore the distribution of male vs female employees for the different years for the entire company or a specific department.
